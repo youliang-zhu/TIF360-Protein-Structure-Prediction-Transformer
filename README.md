@@ -49,7 +49,7 @@ After generating your datasets, upload them to your Google Drive. Make sure to a
 Navigate to the `src/ProteinPredictionTransformer` directory in your Colab environment. Here, you'll find the notebooks to run the Transformer-based protein structure prediction model, including training and testing phases.
 Use our trained model
 
----------------------
+***
 
 ## 🧠 Use our trained model
 
